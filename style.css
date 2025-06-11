@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     /* Set the GIF as background */
-    background: url('Animated.gif') 
+    background: url('your-gif.gif') no-repeat center center fixed;
     background-size: cover; /* Ensures full coverage */
     font-family: Arial, sans-serif;
 }
